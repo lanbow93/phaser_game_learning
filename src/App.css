@@ -3,3 +3,9 @@
   margin: 0;
   border: 0;
 }
+
+.home{
+  display: grid;
+  justify-content: center;
+  margin-top: 2rem;
+}
